@@ -1,0 +1,9 @@
+Adicionar a tag dentro do <head> do arquivo index.html
+<script
+      src="https://kit.fontawesome.com/bd2d5b061f.js"
+      crossorigin="anonymous"
+></script>
+
+Procurar no site fontawesome a fonte do icone que você quer copiar e colar no seu código
+
+Ex: Fonte de um relógio <i class="far fa-clock"></i> 
